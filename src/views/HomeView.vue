@@ -16,7 +16,7 @@
     <p class="mb-4">
       Join us in the pursuit of creating smarter, more capable AI that benefits humanity in every
       way, every day!
-      <a href="https://discord.gg/atWcxtJ4" class="text-blue-500 hover:underline"
+      <a href="https://discord.gg/HxDQRmX6Z5" class="text-blue-500 hover:underline"
         >Click this link to join AGIG!</a
       >
     </p>
@@ -93,7 +93,7 @@
     <!-- Discord Join Link -->
     <p class="mt-6 flex justify-center">
       <a
-        href="https://discord.gg/atWcxtJ4"
+        href="https://discord.gg/HxDQRmX6Z5"
         class="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-4 px-8 rounded-full inline-block"
         >Click here to join AGIG!</a
       >
