@@ -1,9 +1,9 @@
 <template>
   <header class="bg-neutral-100 text-neutral-900 md:p-12 p-3">
     <div class="flex items-center">
-      <a href="https://agig.vercel.com/"><img src="../assets/logo.png" class="h-12" alt="" /></a>
+      <a href="https://agig.vercel.app/"><img src="../assets/logo.png" class="h-12" alt="" /></a>
       <h1 class="site-title text-2xl pl-4">
-        <a href="https://agig.vercel.com/" title="AGI Genesis" rel="home" class="font-bold"
+        <a href="https://agig.vercel.app/" title="AGI Genesis" rel="home" class="font-bold"
           >AGI Genesis</a
         >
       </h1>
